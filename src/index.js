@@ -9,6 +9,7 @@ import Servicios from './components/servicios/servicios';
 import UnderConstruction from './components/underconstruction/underconstruction';
 import Comodidades from './components/comodidades/comodidides';
 import PreguntasResenas from './components/preguntas/preguntas';
+import ContactoUbicacion from './components/contacto/contacto';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -19,6 +20,7 @@ root.render(
     <Servicios />
     <Comodidades />
     <PreguntasResenas />
+    <ContactoUbicacion />
     <UnderConstruction />
   </React.StrictMode>
 );
