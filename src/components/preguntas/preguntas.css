@@ -1,0 +1,137 @@
+.preguntas-resenas-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.titulo {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+}
+
+.preguntas-container {
+    margin-bottom: 40px;
+}
+
+.pregunta-item {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.pregunta-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #f8f8f8;
+    cursor: pointer;
+}
+
+.pregunta-header h3 {
+    margin: 0;
+    font-size: 1.6rem;
+    color: #000000;
+}
+
+.pregunta-header svg {
+    font-size: 1.5rem;
+    color: #3caa35;
+}
+
+.pregunta-respuesta {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 1.5s ease;
+    padding: 0 15px;
+}
+
+.pregunta-item.active .pregunta-respuesta {
+    max-height: 500px;
+}
+
+.pregunta-respuesta p {
+    margin: 0;
+    word-wrap: break-word; 
+}
+
+.whatsapp-link {
+    color: #28A745;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.whatsapp-link:hover {
+    text-decoration: underline;
+}
+
+.pregunta-respuesta p {
+    margin: 0;
+    word-wrap: break-word; 
+    font-size: 1.8rem;
+}
+
+/* Estilos para las reseñas */
+.resenas-container {
+    margin-top: 40px;
+}
+
+.resena-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.resena-texto h4 {
+    margin: 0;
+    font-size: 1.6rem;
+    color: #000000;
+}
+
+.resena-texto p {
+    margin: 5px 0 0;
+    font-size: 1.5rem;
+    color: #555;
+}
+
+.resena-estrellas {
+    display: flex;
+}
+
+.estrella {
+    font-size: 1.5rem;
+    margin-left: 5px;
+}
+
+.estrella.llena {
+    color: #FFD700;
+}
+
+.estrella.vacia {
+    color: #ddd;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    .resena-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .resena-estrellas {
+        margin-top: 10px;
+    }
+
+    .pregunta-respuesta {
+        font-size: 1rem; /* Ajusta el tamaño de fuente para móviles */
+    }
+}
