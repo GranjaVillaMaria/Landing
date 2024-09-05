@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/Landing/static/css/main.f81e7c56.css",
-    "main.js": "/Landing/static/js/main.c3bed63f.js",
+    "main.css": "/Landing/static/css/main.c1054382.css",
+    "main.js": "/Landing/static/js/main.d91cf96d.js",
     "static/js/453.2c9711b6.chunk.js": "/Landing/static/js/453.2c9711b6.chunk.js",
     "static/media/LogoConNombre.png": "/Landing/static/media/LogoConNombre.f5e151167e4595e15f13.png",
     "static/media/finca4.jpg": "/Landing/static/media/finca4.bb780398fa17446c4311.jpg",
+    "static/media/construccion.gif": "/Landing/static/media/construccion.c34e9c5d33ef83cd4a29.gif",
     "static/media/home.jpeg": "/Landing/static/media/home.32b6cfd47a6d966feece.jpeg",
     "static/media/finca2.jpg": "/Landing/static/media/finca2.db670dfd2a90f586b67d.jpg",
     "static/media/finca1.jpg": "/Landing/static/media/finca1.84195ed199759b11f52f.jpg",
     "static/media/finca5.jpg": "/Landing/static/media/finca5.eba8b5a1d9b4cdc5ca45.jpg",
     "static/media/finca3.jpg": "/Landing/static/media/finca3.17dbe130685d16332603.jpg",
+    "static/media/avestruz.png": "/Landing/static/media/avestruz.1b53768faf8e248377e5.png",
+    "static/media/eventos.png": "/Landing/static/media/eventos.5491046ab86623e5c794.png",
+    "static/media/cuatrimoto.png": "/Landing/static/media/cuatrimoto.6cc80ebd8240ae459354.png",
+    "static/media/paintball.png": "/Landing/static/media/paintball.afd9f732b71f70f699b2.png",
     "static/media/finca6.jpg": "/Landing/static/media/finca6.ed2b4519df8aee6c4e32.jpg",
     "index.html": "/Landing/index.html",
-    "main.f81e7c56.css.map": "/Landing/static/css/main.f81e7c56.css.map",
-    "main.c3bed63f.js.map": "/Landing/static/js/main.c3bed63f.js.map",
+    "main.c1054382.css.map": "/Landing/static/css/main.c1054382.css.map",
+    "main.d91cf96d.js.map": "/Landing/static/js/main.d91cf96d.js.map",
     "453.2c9711b6.chunk.js.map": "/Landing/static/js/453.2c9711b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f81e7c56.css",
-    "static/js/main.c3bed63f.js"
+    "static/css/main.c1054382.css",
+    "static/js/main.d91cf96d.js"
   ]
 }
