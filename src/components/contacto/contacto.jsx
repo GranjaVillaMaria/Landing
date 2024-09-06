@@ -6,12 +6,12 @@ const ContactoUbicacion = () => {
         <div className="contacto-ubicacion-container">
             <div className="contacto-info">
                 <h2>Contacto</h2>
-                <p className="explore-message">La finca se encuentra ubicada en la Ciudad de Chiquinquirá Boyacá en la vereda XXXXXXX. Utiliza el mapa a continuación para identificar nuestra ubicación exacta y planificar tu visita. Para una guía paso a paso desde tu punto de partida, selecciona los botones y abre las instrucciones en Google Maps. Prepárate para una experiencia única donde la belleza natural y la cultura local te dan la bienvenida.</p>
-                <p>Dirección: Chiquinquirá Boyacá, Vereda XXXXXXXX</p>
+                <p className="explore-message">La finca se encuentra ubicada en la Ciudad de Chiquinquirá Boyacá en la Vereda Cordoba Alto. Utiliza el mapa a continuación para identificar nuestra ubicación exacta y planificar tu visita. Para una guía paso a paso desde tu punto de partida, selecciona los botones y abre las instrucciones en Google Maps. Prepárate para una experiencia única donde la belleza natural y la cultura local te dan la bienvenida.</p>
+                <p>Dirección: Chiquinquirá Boyacá, Vereda Cordoba Alto</p>
                 <p>Teléfono: +57 313 8832314 </p>
                 <p>Email: granjaagroturisticavillamaria@gmail.com</p>
                 <a
-                    href="https://wa.me/3138832314?text=Hola,%20me%20gustaría%20hacer%20una%20reserva"
+                    href="https://wa.me/3138832314?text=Hola,%20me%20gustaría%20hacer%20una%20reserva%20en%20la%20Granja%20Agroturistica%20Villa%20Maria"
                     className="reservar-button"
                     target="_blank"
                     rel="noopener noreferrer"

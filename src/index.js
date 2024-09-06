@@ -10,6 +10,7 @@ import UnderConstruction from './components/underconstruction/underconstruction'
 import Comodidades from './components/comodidades/comodidides';
 import PreguntasResenas from './components/preguntas/preguntas';
 import ContactoUbicacion from './components/contacto/contacto';
+import Footer from './components/footer/footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -21,7 +22,8 @@ root.render(
     <Comodidades />
     <PreguntasResenas />
     <ContactoUbicacion />
-    <UnderConstruction />
+    <Footer />
+    {/*<UnderConstruction />*/}
   </React.StrictMode>
 );
 

@@ -12,7 +12,7 @@ const PreguntasResenas = () => {
         },
         {
             pregunta: '¿Necesito hacer una reserva previa para visitar?',
-            respuesta: 'Sí, recomendamos hacer reservas previas para asegurar tu lugar, especialmente para visitas entre semana, durante la temporada alta y para actividades especiales como visita a los animales, o servicio de alojamiento.Puedes hacer tu reserva <a href="https://wa.me/3138832314?text=Hola,%20me%20gustaría%20hacer%20una%20reserva" target="_blank" class="whatsapp-link">aquí</a>.'
+            respuesta: 'Sí, recomendamos hacer reservas previas para asegurar tu lugar, especialmente para visitas entre semana, durante la temporada alta y para actividades especiales como visita a los animales, o servicio de alojamiento.Puedes hacer tu reserva <a href="https://wa.me/3138832314?text=Hola,%20me%20gustaría%20hacer%20una%20reserva%20en%20la%20Granja%20Agroturistica%20Villa%20Maria" target="_blank" class="whatsapp-link">aquí</a>.'
         },
         {
             pregunta: '¿Qué actividades se pueden realizar en la Granja Villa Maria?',
