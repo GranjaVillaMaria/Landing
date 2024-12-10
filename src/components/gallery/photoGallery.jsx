@@ -7,6 +7,13 @@ import imagen3 from '../../images/finca3.jpg'
 import imagen4 from '../../images/finca4.jpg'
 import imagen5 from '../../images/finca5.jpg'
 import imagen6 from '../../images/finca6.jpg'
+import imagen7 from '../../images/finca7.jpg'
+import imagen8 from '../../images/finca8.jpg'
+import imagen9 from '../../images/finca9.jpg'
+import imagen10 from '../../images/finca10.jpg'
+import imagen11 from '../../images/finca11.jpg'
+import imagen12 from '../../images/finca12.jpg'
+
 
 
 const PhotoGallery = () => {
@@ -19,6 +26,12 @@ const PhotoGallery = () => {
     imagen4,
     imagen5,
     imagen6,
+    imagen7,
+    imagen8,
+    imagen9,
+    imagen10,
+    imagen11,
+    imagen12,
   ];
 
   const handlePhotoClick = (photo) => {
