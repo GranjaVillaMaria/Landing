@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Landing/static/css/main.884fbc27.css",
-    "main.js": "/Landing/static/js/main.02cc1af8.js",
+    "main.js": "/Landing/static/js/main.92890d16.js",
     "static/js/453.2c9711b6.chunk.js": "/Landing/static/js/453.2c9711b6.chunk.js",
     "static/media/LogoConNombre.png": "/Landing/static/media/LogoConNombre.f5e151167e4595e15f13.png",
     "static/media/Logo.png": "/Landing/static/media/Logo.e55f0d392ab54b5311eb.png",
@@ -14,22 +14,25 @@
     "static/media/finca1.jpg": "/Landing/static/media/finca1.d874904199682496e249.jpg",
     "static/media/home.jpeg": "/Landing/static/media/home.d2b0250b4ae22448b47d.jpeg",
     "static/media/finca2.jpg": "/Landing/static/media/finca2.0be2efe1d131aff4895c.jpg",
+    "static/media/finca14.jpg": "/Landing/static/media/finca14.d0c1b24603c364869809.jpg",
     "static/media/finca4.jpg": "/Landing/static/media/finca4.7703493180c3e6ca63e0.jpg",
+    "static/media/finca13.jpg": "/Landing/static/media/finca13.98a603c61c6d832b8017.jpg",
     "static/media/finca11.jpg": "/Landing/static/media/finca11.d4b7db3933defe5f2212.jpg",
     "static/media/finca10.jpg": "/Landing/static/media/finca10.457d363f37d0206c5cb3.jpg",
     "static/media/finca3.jpg": "/Landing/static/media/finca3.0a7b70218d7719f26802.jpg",
     "static/media/finca6.jpg": "/Landing/static/media/finca6.f00d9b00ec2072e5e381.jpg",
+    "static/media/finca15.jpg": "/Landing/static/media/finca15.3c6ec8ab29beaa4697bf.jpg",
     "static/media/avestruz.png": "/Landing/static/media/avestruz.1b53768faf8e248377e5.png",
     "static/media/eventos.png": "/Landing/static/media/eventos.5491046ab86623e5c794.png",
     "static/media/cuatrimoto.png": "/Landing/static/media/cuatrimoto.6cc80ebd8240ae459354.png",
     "static/media/paintball.png": "/Landing/static/media/paintball.afd9f732b71f70f699b2.png",
     "index.html": "/Landing/index.html",
     "main.884fbc27.css.map": "/Landing/static/css/main.884fbc27.css.map",
-    "main.02cc1af8.js.map": "/Landing/static/js/main.02cc1af8.js.map",
+    "main.92890d16.js.map": "/Landing/static/js/main.92890d16.js.map",
     "453.2c9711b6.chunk.js.map": "/Landing/static/js/453.2c9711b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.884fbc27.css",
-    "static/js/main.02cc1af8.js"
+    "static/js/main.92890d16.js"
   ]
 }
