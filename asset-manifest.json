@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/Landing/static/css/main.23943d99.css",
-    "main.js": "/Landing/static/js/main.92890d16.js",
+    "main.js": "/Landing/static/js/main.8eeee323.js",
     "static/js/453.2c9711b6.chunk.js": "/Landing/static/js/453.2c9711b6.chunk.js",
     "static/media/LogoConNombre.png": "/Landing/static/media/LogoConNombre.f5e151167e4595e15f13.png",
     "static/media/Logo.png": "/Landing/static/media/Logo.e55f0d392ab54b5311eb.png",
+    "static/media/finca16.jpg": "/Landing/static/media/finca16.213cada28ebcc59975ab.jpg",
     "static/media/finca5.jpg": "/Landing/static/media/finca5.76fc273b75036f4ed20d.jpg",
     "static/media/finca9.jpg": "/Landing/static/media/finca9.e62ddba7ddf7fd128db7.jpg",
     "static/media/finca8.jpg": "/Landing/static/media/finca8.a81ba84f32731bd31755.jpg",
     "static/media/finca12.jpg": "/Landing/static/media/finca12.a7192b802657e6f93a4b.jpg",
+    "static/media/finca17.jpg": "/Landing/static/media/finca17.7c9f19a80c68b7b8ccae.jpg",
     "static/media/finca7.jpg": "/Landing/static/media/finca7.7c385a7d0b90f96ad166.jpg",
     "static/media/construccion.gif": "/Landing/static/media/construccion.c34e9c5d33ef83cd4a29.gif",
     "static/media/finca1.jpg": "/Landing/static/media/finca1.d874904199682496e249.jpg",
@@ -21,6 +23,7 @@
     "static/media/finca10.jpg": "/Landing/static/media/finca10.457d363f37d0206c5cb3.jpg",
     "static/media/finca3.jpg": "/Landing/static/media/finca3.0a7b70218d7719f26802.jpg",
     "static/media/finca6.jpg": "/Landing/static/media/finca6.f00d9b00ec2072e5e381.jpg",
+    "static/media/finca18.jpg": "/Landing/static/media/finca18.48fb80cc0c8486c9e997.jpg",
     "static/media/finca15.jpg": "/Landing/static/media/finca15.3c6ec8ab29beaa4697bf.jpg",
     "static/media/avestruz.png": "/Landing/static/media/avestruz.1b53768faf8e248377e5.png",
     "static/media/eventos.png": "/Landing/static/media/eventos.5491046ab86623e5c794.png",
@@ -28,11 +31,11 @@
     "static/media/paintball.png": "/Landing/static/media/paintball.afd9f732b71f70f699b2.png",
     "index.html": "/Landing/index.html",
     "main.23943d99.css.map": "/Landing/static/css/main.23943d99.css.map",
-    "main.92890d16.js.map": "/Landing/static/js/main.92890d16.js.map",
+    "main.8eeee323.js.map": "/Landing/static/js/main.8eeee323.js.map",
     "453.2c9711b6.chunk.js.map": "/Landing/static/js/453.2c9711b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23943d99.css",
-    "static/js/main.92890d16.js"
+    "static/js/main.8eeee323.js"
   ]
 }
