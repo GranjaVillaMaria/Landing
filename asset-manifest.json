@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Landing/static/css/main.884fbc27.css",
+    "main.css": "/Landing/static/css/main.23943d99.css",
     "main.js": "/Landing/static/js/main.92890d16.js",
     "static/js/453.2c9711b6.chunk.js": "/Landing/static/js/453.2c9711b6.chunk.js",
     "static/media/LogoConNombre.png": "/Landing/static/media/LogoConNombre.f5e151167e4595e15f13.png",
@@ -12,9 +12,9 @@
     "static/media/finca7.jpg": "/Landing/static/media/finca7.7c385a7d0b90f96ad166.jpg",
     "static/media/construccion.gif": "/Landing/static/media/construccion.c34e9c5d33ef83cd4a29.gif",
     "static/media/finca1.jpg": "/Landing/static/media/finca1.d874904199682496e249.jpg",
-    "static/media/home.jpeg": "/Landing/static/media/home.d2b0250b4ae22448b47d.jpeg",
     "static/media/finca2.jpg": "/Landing/static/media/finca2.0be2efe1d131aff4895c.jpg",
     "static/media/finca14.jpg": "/Landing/static/media/finca14.d0c1b24603c364869809.jpg",
+    "static/media/home.jpeg": "/Landing/static/media/home.d0c1b24603c364869809.jpeg",
     "static/media/finca4.jpg": "/Landing/static/media/finca4.7703493180c3e6ca63e0.jpg",
     "static/media/finca13.jpg": "/Landing/static/media/finca13.98a603c61c6d832b8017.jpg",
     "static/media/finca11.jpg": "/Landing/static/media/finca11.d4b7db3933defe5f2212.jpg",
@@ -27,12 +27,12 @@
     "static/media/cuatrimoto.png": "/Landing/static/media/cuatrimoto.6cc80ebd8240ae459354.png",
     "static/media/paintball.png": "/Landing/static/media/paintball.afd9f732b71f70f699b2.png",
     "index.html": "/Landing/index.html",
-    "main.884fbc27.css.map": "/Landing/static/css/main.884fbc27.css.map",
+    "main.23943d99.css.map": "/Landing/static/css/main.23943d99.css.map",
     "main.92890d16.js.map": "/Landing/static/js/main.92890d16.js.map",
     "453.2c9711b6.chunk.js.map": "/Landing/static/js/453.2c9711b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.884fbc27.css",
+    "static/css/main.23943d99.css",
     "static/js/main.92890d16.js"
   ]
 }
