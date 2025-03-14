@@ -14,7 +14,7 @@ const Home = () => {
 
             {/* 🌟 Contenido sobre el video */}
             <div className="overlay">
-                <img src={logo} alt="Logo" className="logo" />
+                {/*<img src={logo} alt="Logo" className="logo" />*/}
                 <p>Bienvenido a la</p>
                 <h1>Granja Agroturística Villa María</h1>
                 <p>Estamos encantados de tenerte aquí. Explora nuestras ofertas y servicios.</p>
